@@ -1,3 +1,2 @@
 Hola Curso subiendo archivo
-cosas
-cambio cambio
+console.log('Hola Mundo')
